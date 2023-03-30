@@ -12,6 +12,6 @@ Compiling, Training and Evaluating the Model
 1. In my model I used 2 hidden layers with many neurons to assist in obtaining the target accuracy of greater than 75%.
 2. I was able to achieve the target performance by adding the Name column in during optimization and combining all values less than 10 into a single category "other".
 
-Summary
+Summary:
 By optimizing the model I was able to predict the accuracy of applicant success to 78%. The Alphabet Soup foundation will find the most success when:
   Applicant types are from T3, T4, T5, T6, T7, T8, T10 OR T19 and Classification C1000, C2000, C1200, C3000, C2100.
